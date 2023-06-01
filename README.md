@@ -27,4 +27,4 @@ Diseñar un dispositivo que permita la detección de temperatura corporal, mostr
 |    |                     |           |            |               |             |
 
 ## Prototipo en dibujo
-- ![image](https://github.com/githMedinaGto/ProyectoDI/assets/89074060/52e598be-fdf3-4e09-ab8a-159cbc4fafe1)
+- ![image](https://github.com/githMedinaGto/ProyectoDI/assets/89074060/8bcc38bd-6ef7-4073-bb5a-23dde696cc11)
